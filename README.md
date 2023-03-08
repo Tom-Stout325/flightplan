@@ -1,4 +1,4 @@
-![FlightPlan]("{% static 'images/FlightPlanLogo.png %}" ) 
+![FlightPlan](static/images/FlightPlanLogo.png) 
 
 
 
@@ -96,3 +96,17 @@ ___
 
 5. Install packages:    
     - pip install -r requirements.txt
+
+
+<h1 align="center">Screenshots</h1>
+
+> ![Home](static/images/screenshots/Home.png)
+![Login](static/images/screenshots/Login.png)
+![Profile](static/images/screenshots/Profile.png)
+![Flights](static/images/screenshots/Flights.png)
+![Flight Detail](static/images/screenshots/FlightDetail.png)
+![Add Flights](static/images/screenshots/AddFlights.png)
+![Drones](static/images/screenshots/Drones.png)
+![Drone Detail](static/images/screenshots/DroneDetails.png)
+![AWS](static/images/screenshots/AWS.png)
+![S3](static/images/screenshots/S3.png)
